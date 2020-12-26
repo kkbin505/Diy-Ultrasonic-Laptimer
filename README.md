@@ -6,13 +6,19 @@ Useing arduino an ultrasonic sensor and a buzzer.
 The computer and serial monitor is used as a time monitor.
 
 Ultra sonic:
+
 VCC -> 5V
+
 GND -> GND
+
 Trig -> D7
+
 Echo -> D6
 
 Buzzer:
+
 Buzzer+ -> A9
+
 Buzzer- -> GND
 
 
