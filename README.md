@@ -17,7 +17,7 @@ Echo -> D6
 
 Buzzer:
 
-Buzzer+ -> A9
+Buzzer+ -> D9
 
 Buzzer- -> GND
 
