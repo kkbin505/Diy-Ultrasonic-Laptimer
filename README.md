@@ -24,6 +24,7 @@ Buzzer- -> GND
 
 Monitor:
 <=================Start=================>
+
 lap:1 Laptime: 5.11s, total:5.11s 
 
 lap:2 Laptime: 6.04s, total:11.16s 
